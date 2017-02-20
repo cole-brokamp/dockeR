@@ -1,4 +1,4 @@
-FROM colebrokamp/r
+FROM colebrokamp/r-base
 
 MAINTAINER "Cole Brokamp" cole.brokamp@gmail.com
 
